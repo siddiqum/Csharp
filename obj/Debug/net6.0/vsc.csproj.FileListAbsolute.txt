@@ -1,0 +1,15 @@
+C:\Users\OCIS\Desktop\vsc\obj\Debug\net6.0\vsc.csproj.AssemblyReference.cache
+C:\Users\OCIS\Desktop\vsc\obj\Debug\net6.0\vsc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OCIS\Desktop\vsc\obj\Debug\net6.0\vsc.AssemblyInfoInputs.cache
+C:\Users\OCIS\Desktop\vsc\obj\Debug\net6.0\vsc.AssemblyInfo.cs
+C:\Users\OCIS\Desktop\vsc\obj\Debug\net6.0\vsc.csproj.CoreCompileInputs.cache
+C:\Users\OCIS\Desktop\vsc\bin\Debug\net6.0\vsc.exe
+C:\Users\OCIS\Desktop\vsc\bin\Debug\net6.0\vsc.deps.json
+C:\Users\OCIS\Desktop\vsc\bin\Debug\net6.0\vsc.runtimeconfig.json
+C:\Users\OCIS\Desktop\vsc\bin\Debug\net6.0\vsc.dll
+C:\Users\OCIS\Desktop\vsc\bin\Debug\net6.0\vsc.pdb
+C:\Users\OCIS\Desktop\vsc\obj\Debug\net6.0\vsc.dll
+C:\Users\OCIS\Desktop\vsc\obj\Debug\net6.0\refint\vsc.dll
+C:\Users\OCIS\Desktop\vsc\obj\Debug\net6.0\vsc.pdb
+C:\Users\OCIS\Desktop\vsc\obj\Debug\net6.0\vsc.genruntimeconfig.cache
+C:\Users\OCIS\Desktop\vsc\obj\Debug\net6.0\ref\vsc.dll
